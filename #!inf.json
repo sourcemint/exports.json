@@ -1,0 +1,4 @@
+{
+    "exports/v0 #": "${__DIRNAME__}/tool.",
+    "exports/v1 #": "${__DIRNAME__}/tool1."
+}
